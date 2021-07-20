@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#galery {
+  background-color: #e2edff;
+}
+.ipank {
+  padding: 20px;
+  background-color: #0d6efd;
+  text-align: center;
+  color: white;
+}
+.display-4 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 45px;
+  letter-spacing: -1px;
+}
+
+section {
+  padding-top: 5rem;
+}
