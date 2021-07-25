@@ -6,12 +6,19 @@
 #galery {
   background-color: #e2edff;
 }
-.ipank {
+.akhir {
   padding: 20px;
   background-color: #0d6efd;
-  text-align: center;
   color: white;
+  width: 100%;
 }
+
+.akhir .cread  {
+  text-align: center;
+  margin-top: 10px;
+}
+
+
 .display-4 {
   font-family: 'Montserrat', sans-serif;
   font-size: 45px;
@@ -20,4 +27,12 @@
 
 section {
   padding-top: 5rem;
+}
+
+.card img {
+  transition: all 0.5s;
+}
+
+.card img:hover {
+  transform: scale(1.2);
 }
