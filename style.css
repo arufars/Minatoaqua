@@ -13,11 +13,10 @@
   width: 100%;
 }
 
-.akhir .cread  {
+.akhir .cread {
   text-align: center;
   margin-top: 10px;
 }
-
 
 .display-4 {
   font-family: 'Montserrat', sans-serif;
@@ -35,4 +34,9 @@ section {
 
 .card img:hover {
   transform: scale(1.2);
+}
+
+.hu {
+  padding-bottom: 10px;
+  text-align: center;
 }
