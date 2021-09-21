@@ -1,7 +1,25 @@
 $(document).ready(function () {
 
     $('.card').css('overflow', 'hidden');
-    $('.holo').css('filter',' brightness(50%)');
+    $('.aqua').css('filter','brightness(80%)')
+    $('.aqua2').css('filter','brightness(80%)')
+    $('.aqua3').css('filter','brightness(80%)')
+    $('.aqua4').css('filter','brightness(80%)')
+    $('.aqua5').css('filter','brightness(80%)')
+    $('.holo').css('filter',' brightness(80%)');
+    $('.holo2').css('filter',' brightness(80%)');
+    $('.holo3').css('filter',' brightness(80%)');
+    $('.holo4').css('filter',' brightness(80%)');
+    $('.holo5').css('filter',' brightness(80%)');
+    $('.holo6').css('filter',' brightness(80%)');
+    $('.holo7').css('filter',' brightness(80%)');
+    $('.holo8').css('filter',' brightness(80%)');
+    $('.holo9').css('filter',' brightness(80%)');
+    $('.holo10').css('filter',' brightness(80%)');
+    $('.holo11').css('filter',' brightness(80%)');
+    $('.holo12').css('filter',' brightness(80%)');
+    $('.holo13').css('filter',' brightness(80%)');
+    $('.holo14').css('filter',' brightness(80%)');
 
     // Event Gallery
     $('.aqua').mouseenter(function () {
